@@ -29,7 +29,7 @@ namespace PersonalSchedulApplication
 
           //  string query = string.Format("INSERT INTO Task VALUES('{0}','{1}','{2}','{3}')", Title, StartTime, EndTime, CurrentTime);
 
-            string query = string.Format("INSERT INTO Task VALUES('{0}','{1}','{2}','{3}')", Title, StartTime, EndTime, CurrentTime);
+            string query = string.Format("INSERT INTO Task VALUES('{0}','{1}','{2}','{3}')", Title, StartTime,EndTime,CurrentTime);
 
             SqlCommand command = new SqlCommand(query,connectionobj);
 
@@ -80,8 +80,8 @@ namespace PersonalSchedulApplication
                     Task aTask = new Task();
                     
                     aTask.Title = aReader["Title"].ToString();
-                    aTask.StartTime = (string) (aReader["StartTime"]);
-                    aTask.EndTime = (string) (aReader["EndTime"]);
+                    aTask.StartTime =(aReader["StartTime"]) as string;
+                    aTask.EndTime = (aReader["EndTime"]) as string;
                    
                     tasks.Add(aTask);
 
