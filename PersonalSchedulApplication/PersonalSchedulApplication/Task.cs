@@ -27,7 +27,7 @@ namespace PersonalSchedulApplication
 
             SqlConnection connectionobj = new SqlConnection(connection);
 
-          //  string query = string.Format("INSERT INTO Task VALUES('{0}','{1}','{2}','{3}')", Title, StartTime, EndTime, CurrentTime);
+         
 
             string query = string.Format("INSERT INTO Task VALUES('{0}','{1}','{2}','{3}')", Title, StartTime,EndTime,CurrentTime);
 
