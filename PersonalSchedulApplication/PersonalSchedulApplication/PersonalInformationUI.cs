@@ -23,9 +23,8 @@ namespace PersonalSchedulApplication
            
 
             aTask.Title = titleTextBox.Text;
-            aTask.StartTime =(startTimeTextBox.Text);
-            aTask.EndTime = (endTimeTextBox.Text);
-
+            aTask.StartTime =(startTimeTextBox.Text).ToString();
+            aTask.EndTime = (endTimeTextBox.Text).ToString();
             MessageBox.Show(aTask.SaveInDatabase());
 
 
