@@ -1,0 +1,9 @@
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\bin\Debug\PersonalSchedulApplication.exe.config
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\bin\Debug\PersonalSchedulApplication.exe
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\bin\Debug\PersonalSchedulApplication.pdb
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\obj\Debug\PersonalSchedulApplication.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\obj\Debug\PersonalSchedulApplication.PersonalInformationUI.resources
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\obj\Debug\PersonalSchedulApplication.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\obj\Debug\PersonalSchedulApplication.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\obj\Debug\PersonalSchedulApplication.exe
+C:\Users\user1\Documents\Visual Studio 2013\Projects\PersonalSchedulApplication\PersonalSchedulApplication\obj\Debug\PersonalSchedulApplication.pdb
